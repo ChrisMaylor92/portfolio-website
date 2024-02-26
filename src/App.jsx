@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Routes, Route } from "react-router-dom";
-import './App.css'
+import './index.css'
 import { Header } from './components/Header';
 import { Home } from './components/Home';
 import { Blog } from './components/Blog';
